@@ -1,0 +1,11 @@
+# Ignore environment file
+.env
+
+# Ignore lock file
+package-lock.json
+yarn.lock
+
+# Optional: ignore node_modules and build folders
+node_modules/
+dist/
+build/
